@@ -7,6 +7,7 @@ Resources/
 Dependencies/
 src/shaders/old/
 glad.c
+stb_image.*
 
 # User-specific files
 *.rsuser
