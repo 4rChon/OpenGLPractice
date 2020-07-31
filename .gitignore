@@ -6,6 +6,7 @@
 Resources/
 Dependencies/
 src/shaders/old/
+glad.c
 
 # User-specific files
 *.rsuser
