@@ -1,16 +1,17 @@
 # OpenGLPractice
 
 ![](https://i.imgur.com/Lyj8iiT.jpeg)
+![](https://i.imgur.com/mnDuy5g.jpg)
 
 Done:
 * Model loading
 * Diffuse/Specular/Normal/Height maps
 * Deferred shading
 * Bloom
-* Took a first pass at shadow mapping with forward rendering, not implemented with deferred rendering
+* Shadow mapping
 
 To Do:
-* Light Volumes + Shadows
+* Light Volumes
 * Ambient Occlusion
 * Spot Lights + Directional lights
 * PBR materials
