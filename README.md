@@ -7,7 +7,7 @@ Done:
 * Diffuse/Specular/Normal/Height maps
 * Deferred shading
 * Bloom
-* Took a first pass at shadow volumes with forward rendering, not implemented with deferred rendering
+* Took a first pass at shadow mapping with forward rendering, not implemented with deferred rendering
 
 To Do:
 * Light Volumes + Shadows
